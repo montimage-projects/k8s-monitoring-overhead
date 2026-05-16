@@ -1,0 +1,29 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mmt-gw-probe
+  namespace: testbed
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mmt-gw-probe
+  template:
+    metadata:
+      labels:
+        app: mmt-gw-probe
+    spec:
+      hostNetwork: true
+      nodeSelector:
+        node-role.kubernetes.io/worker: "worker"
+          
+      containers:
+      - name: mmt-probe
+        image: ghcr.io/montimage/mmt-probe:v1.6.2
+        imagePullPolicy: IfNotPresent
+        # run probe during 10 seconds
+        #command: ["timeout", "--signal=2", "10", "mmt-probe"]
+        args:
+        - "-ienp0s3"
+        - "-Xprobe-id=1"
+        - "-Xinput.pcap-filter=not (tcp and port 22) and not ip6 and not broadcast"

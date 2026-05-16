@@ -1,0 +1,48 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: http-server
+  namespace: testbed
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: http-server
+  template:
+    metadata:
+      labels:
+        app: http-server
+    spec:
+      nodeSelector:
+        node-role.kubernetes.io/control-plane: ""
+      tolerations:
+        - key: "node-role.kubernetes.io/control-plane"
+          operator: "Exists"
+          effect: "NoSchedule"
+          
+      containers:
+      - name: http-server
+        image: nginx:alpine
+
+      - name: mmt-probe
+        image: ghcr.io/montimage/mmt-probe:v1.6.2
+        imagePullPolicy: IfNotPresent
+        # run probe during 10 seconds
+        #command: ["timeout", "--signal=2", "10", "mmt-probe"]
+        args:
+        - "-ieth0" 
+        - "-Xprobe-id=5"
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: http-server-svc
+  namespace: testbed
+spec:
+  selector:
+    app: http-server
+  ports:
+  - name: http
+    port: 80
+    targetPort: 80

@@ -1,0 +1,1315 @@
+Warning: deleting cluster-scoped resources, not scoped to the provided namespace
+namespace "testbed" deleted
+namespace/testbed created
+Sat May 16 14:29:54 CEST 2026
+=== Baseline iteration baseline-1 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:30:53 CEST 2026
+=== Baseline iteration baseline-2 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:31:52 CEST 2026
+=== Baseline iteration baseline-3 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:32:52 CEST 2026
+=== Baseline iteration baseline-4 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:33:50 CEST 2026
+=== Baseline iteration baseline-5 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:34:49 CEST 2026
+=== Baseline iteration baseline-6 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:35:48 CEST 2026
+=== Baseline iteration baseline-7 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:36:46 CEST 2026
+=== Baseline iteration baseline-8 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:37:46 CEST 2026
+=== Baseline iteration baseline-9 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:38:44 CEST 2026
+=== Baseline iteration baseline-10 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:39:43 CEST 2026
+=== Baseline iteration baseline-11 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:40:41 CEST 2026
+=== Baseline iteration baseline-12 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:41:39 CEST 2026
+=== Baseline iteration baseline-13 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:42:38 CEST 2026
+=== Baseline iteration baseline-14 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:43:37 CEST 2026
+=== Baseline iteration baseline-15 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:44:34 CEST 2026
+=== Baseline iteration baseline-16 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:45:33 CEST 2026
+=== Baseline iteration baseline-17 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:46:31 CEST 2026
+=== Baseline iteration baseline-18 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:47:30 CEST 2026
+=== Baseline iteration baseline-19 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:48:28 CEST 2026
+=== Baseline iteration baseline-20 ===
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+Waiting for deployment "haproxy" rollout to finish: 0 of 1 updated replicas are available...
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+Sat May 16 14:49:26 CEST 2026
+=== Mirroring iteration mirroring-1 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 14:50:39 CEST 2026
+=== Mirroring iteration mirroring-2 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+Waiting for deployment "mmt-node-master" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 14:51:51 CEST 2026
+=== Mirroring iteration mirroring-3 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 14:53:04 CEST 2026
+=== Mirroring iteration mirroring-4 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+Waiting for deployment "mmt-node-master" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 14:54:17 CEST 2026
+=== Mirroring iteration mirroring-5 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 14:55:29 CEST 2026
+=== Mirroring iteration mirroring-6 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 14:56:40 CEST 2026
+=== Mirroring iteration mirroring-7 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+Waiting for deployment "mmt-node-master" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 14:57:53 CEST 2026
+=== Mirroring iteration mirroring-8 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 14:59:04 CEST 2026
+=== Mirroring iteration mirroring-9 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:00:16 CEST 2026
+=== Mirroring iteration mirroring-10 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:01:28 CEST 2026
+=== Mirroring iteration mirroring-11 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:02:40 CEST 2026
+=== Mirroring iteration mirroring-12 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:03:50 CEST 2026
+=== Mirroring iteration mirroring-13 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+Waiting for deployment "mmt-node-master" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:05:03 CEST 2026
+=== Mirroring iteration mirroring-14 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:06:15 CEST 2026
+=== Mirroring iteration mirroring-15 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+Waiting for deployment "mmt-node-master" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:07:27 CEST 2026
+=== Mirroring iteration mirroring-16 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:08:39 CEST 2026
+=== Mirroring iteration mirroring-17 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:09:51 CEST 2026
+=== Mirroring iteration mirroring-18 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+Waiting for deployment "mmt-node-master" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:11:04 CEST 2026
+=== Mirroring iteration mirroring-19 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:12:17 CEST 2026
+=== Mirroring iteration mirroring-20 ===
+deployment.apps/mmt-gw-probe created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:13:28 CEST 2026
+=== Proxying iteration proxying-1 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:14:41 CEST 2026
+=== Proxying iteration proxying-2 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:15:53 CEST 2026
+=== Proxying iteration proxying-3 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+Waiting for deployment "mmt-node-master" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:17:05 CEST 2026
+=== Proxying iteration proxying-4 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:18:18 CEST 2026
+=== Proxying iteration proxying-5 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+Waiting for deployment "mmt-node-master" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:19:30 CEST 2026
+=== Proxying iteration proxying-6 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:20:43 CEST 2026
+=== Proxying iteration proxying-7 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:21:55 CEST 2026
+=== Proxying iteration proxying-8 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+Waiting for deployment "mmt-node-master" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:23:09 CEST 2026
+=== Proxying iteration proxying-9 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:24:21 CEST 2026
+=== Proxying iteration proxying-10 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:25:33 CEST 2026
+=== Proxying iteration proxying-11 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+Waiting for deployment "mmt-node-master" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:26:45 CEST 2026
+=== Proxying iteration proxying-12 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+Waiting for deployment "mmt-node-master" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:27:58 CEST 2026
+=== Proxying iteration proxying-13 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+Waiting for deployment "mmt-node-master" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:29:11 CEST 2026
+=== Proxying iteration proxying-14 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:30:23 CEST 2026
+=== Proxying iteration proxying-15 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:31:37 CEST 2026
+=== Proxying iteration proxying-16 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+Waiting for deployment "mmt-node-master" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:32:49 CEST 2026
+=== Proxying iteration proxying-17 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:34:01 CEST 2026
+=== Proxying iteration proxying-18 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:35:13 CEST 2026
+=== Proxying iteration proxying-19 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
+Sat May 16 15:36:26 CEST 2026
+=== Proxying iteration proxying-20 ===
+deployment.apps/mmt-gw-probe created
+configmap/envoy-config created
+deployment.apps/http-server created
+service/http-server-svc created
+configmap/haproxy-config created
+deployment.apps/haproxy created
+service/haproxy-svc created
+deployment.apps/mmt-node-worker created
+deployment.apps/mmt-node-master created
+Waiting for deployment "mmt-node-worker" rollout to finish: 0 of 1 updated replicas are available...
+deployment "mmt-node-worker" successfully rolled out
+deployment "mmt-node-master" successfully rolled out
+deployment "mmt-gw-probe" successfully rolled out
+deployment "haproxy" successfully rolled out
+deployment "http-server" successfully rolled out
+deployment.apps "mmt-gw-probe" deleted from testbed namespace
+configmap "envoy-config" deleted from testbed namespace
+deployment.apps "http-server" deleted from testbed namespace
+service "http-server-svc" deleted from testbed namespace
+configmap "haproxy-config" deleted from testbed namespace
+deployment.apps "haproxy" deleted from testbed namespace
+service "haproxy-svc" deleted from testbed namespace
+deployment.apps "mmt-node-worker" deleted from testbed namespace
+deployment.apps "mmt-node-master" deleted from testbed namespace
